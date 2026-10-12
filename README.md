@@ -3,3 +3,17 @@ An intelligent customer support chatbot designed to answer Frequently Asked Ques
 
 Tech Stack: Python, Gradio, sentence-transformers (HuggingFace), scikit-learn, Pandas.
 Features: Cosine similarity for intent matching, Small-talk engine (greetings/bot identity), high-accuracy semantic.
+
+ Task 3: AI Music Generation
+
+This project generates new music sequences using Python, MIDI files, and Markov Chains.
+
+### 🛠️ Technologies
+- Python
+- Music21
+- Markov Chains
+
+### ⚙️ How to Run
+```bash
+pip install music21
+python music-generatot.py
